@@ -1,3 +1,6 @@
 ## 简介
 
-此仓库，通过fork各大牛的仓库，通过修改部署脚本，添加应用的上下文，并打包成Docker镜像，方便大家使用
+此仓库主要是为各大无上下文的开源应用添加有应用上下文，方便进行私有化部署
+
+## Summary
+This repository primarily adds application context to major context-free open-source applications, making private deployment more convenient.
